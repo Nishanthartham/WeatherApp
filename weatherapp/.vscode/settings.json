@@ -1,0 +1,8 @@
+{
+    // "json.schemas": [
+    
+    // ]
+        "git.enabled": true,
+        "git.path" : "/usr/local/bin/git",
+
+}
